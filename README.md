@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-I mess around with Go and Linux/Unix in my free time and maybe do some webdev if necessary.
+I'm Go hobbyist and Linux/Unix enthusiast
+
+I'm also monist
 
 [![Donate](https://share.ugjka.net/paypal.svg)](https://www.paypal.me/ugjka)
